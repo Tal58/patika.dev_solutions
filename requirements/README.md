@@ -1,6 +1,6 @@
 # Reuirements 
 
-<img src="./img1.jpg"  align="left" alt="desktop_version">
+<img src="./node_modules/img1.jpg"  align="left" alt="desktop_version">
 
 ## Learning Outcomes
 
@@ -22,7 +22,7 @@ At the end of the this coding challenge, students will be able to;
 
 ## 🖥️ Screen shot of the solution is as follows;
 <br>
-<img src="./img2.jpg"  align="left" alt="desktop_version">
+<img src="./node_modules/img2.jpg"  align="left" alt="desktop_version">
 <br>
 <br>
 <br>
