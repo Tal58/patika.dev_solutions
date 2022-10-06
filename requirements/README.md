@@ -1,6 +1,7 @@
 # Reuirements 
 
-<img src="./node_modules/img1.jpg"  align="left" alt="desktop_version">
+<img src="./node_modules/img1.jpg"   alt="desktop_version">
+<br>
 
 ## Learning Outcomes
 
