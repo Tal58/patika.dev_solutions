@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/patika.dev_solutions/patika-contacts-app/static/css/main.20e3dde7.css",
+    "main.js": "/patika.dev_solutions/patika-contacts-app/static/js/main.47ba6854.js",
+    "static/js/787.c45cc61a.chunk.js": "/patika.dev_solutions/patika-contacts-app/static/js/787.c45cc61a.chunk.js",
+    "index.html": "/patika.dev_solutions/patika-contacts-app/index.html",
+    "main.20e3dde7.css.map": "/patika.dev_solutions/patika-contacts-app/static/css/main.20e3dde7.css.map",
+    "main.47ba6854.js.map": "/patika.dev_solutions/patika-contacts-app/static/js/main.47ba6854.js.map",
+    "787.c45cc61a.chunk.js.map": "/patika.dev_solutions/patika-contacts-app/static/js/787.c45cc61a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20e3dde7.css",
+    "static/js/main.47ba6854.js"
+  ]
+}
