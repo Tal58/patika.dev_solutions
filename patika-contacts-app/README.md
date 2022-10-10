@@ -23,8 +23,6 @@ SOLUTION
 |    |           └── List
 |    |                └── index.js
 │    │     
-│    ├── helper
-│    │       └── data.js
 │    ├── App.js
 │    ├── App.css
 │    ├── index.js
