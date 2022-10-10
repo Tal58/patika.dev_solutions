@@ -1,4 +1,4 @@
-# Tour Places
+# Contacts App
 
 ## Description
 
