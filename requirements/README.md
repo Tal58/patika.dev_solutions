@@ -1,4 +1,4 @@
-# Reuirements 
+# Requirements 
 
 <img src="./node_modules/img1.jpg"   alt="desktop_version">
 <br>
